@@ -1,2 +1,1 @@
-# Curso-Henrry
-Repositorio en la nube, mi primer repositorio remoto en henrry
+Este proyecto es una prueba de como clonar un repositorio de git.hub y clonarlo en mi computadora de forma local.
